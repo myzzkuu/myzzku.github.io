@@ -1,12 +1,12 @@
 # myzzkuu.github.io
 
-### What are VOCALOIDS?
+# **What are VOCALOIDS?**
 
 Vocaloid (ボーカロイド, Bōkaroido) is a singing voice synthesizer software product.
 The software enables users to synthesize "singing" by typing in lyrics and melody and also "speech" by typing in the script of the required words. 
 It uses synthesizing technology with specially recorded vocals of voice actors or singers. To create a song, the user must input the melody and lyrics.
 
-# **Are VOCALOIDS robots?**
+### Are VOCALOIDS robots?
 no. i will spite you
 
 ---
