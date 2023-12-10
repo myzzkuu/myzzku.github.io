@@ -1,6 +1,6 @@
 # myzzkuu.github.io
 
-## **What are VOCALOIDS?**
+### **What are VOCALOIDS?**
 
 Vocaloid (ボーカロイド, Bōkaroido) is a singing voice synthesizer software product.
 The software enables users to synthesize "singing" by typing in lyrics and melody and also "speech" by typing in the script of the required words. 
@@ -14,15 +14,42 @@ no. i will spite you
 
 > ## Main 6 VOCALOIDS
 
-> ## Hatsune Miku
-
-> ![picture](https://i.pinimg.com/736x/6c/8c/3f/6c8c3f8343784b2791d6110510a43230.jpg)
-
-> **Hatsune Miku** (初音ミク), codenamed CV01, was the first Japanese VOCALOID to be both developed and distributed by Crypton Future Media, Inc.. 
-> She was initially released in August 2007 for the VOCALOID2 engine and was the first member of the Character Vocal Series. 
-> She was the seventh VOCALOID overall, as well as the second VOCALOID2 vocal released to be released for the engine. Her voice is provided by the Japanese voice actress Saki Fujita (藤田咲, Fujita Saki)
+## Hatsune Miku
+![Hatsune Miku](https://i.pinimg.com/736x/6c/8c/3f/6c8c3f8343784b2791d6110510a43230.jpg)
 
 ---
+
+## Kagamine Rin
+![Kagamine Rin](https://i.pinimg.com/564x/c9/9f/96/c99f9608c9a27bb02512e3dc4cbd4d9c.jpg)
+
+---
+
+## Kagamine Len
+![ugly](https://i.pinimg.com/564x/d9/ec/e7/d9ece71d1925c83f76277e56ac2b11aa.jpg)
+
+he is ugly
+
+---
+
+## Megurine Luka
+![Megurine Luka](https://i.pinimg.com/564x/46/d8/a6/46d8a6bb1a057d3e4ac48dde5eef9060.jpg)
+
+---
+
+## MEIKO
+![MEIKO](https://i.pinimg.com/564x/52/d6/17/52d6175663ca53b87c4d8833260cd6ed.jpg)
+
+---
+
+## KAITO
+![KAITO](https://i.pinimg.com/564x/3b/49/47/3b4947a01b2535f77f5d541338657781.jpg)
+
+---
+
+<iframe width="560" height="315" src="https://youtu.be/GODXMGAMpVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+dont question anything
+
 
 
 
