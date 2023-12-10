@@ -67,7 +67,7 @@ KAITO (カイト) is a Japanese VOCALOID developed originally by Yamaha Corporat
 
 <iframe width="560" height="315" src="https://youtu.be/GODXMGAMpVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-dont question anything
+dont question anything (also stream バグ)
 
 
 
