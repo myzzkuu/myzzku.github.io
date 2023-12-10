@@ -35,7 +35,7 @@ She is Kagamine Len's counterpart.
 ![ugly](https://i.pinimg.com/564x/d9/ec/e7/d9ece71d1925c83f76277e56ac2b11aa.jpg)
 
 
-Kagamine Len (鏡音レン), codenamed CV02, is a Japanese VOCALOID developed and distributed by Crypton Future Media, Inc., and was initially released in December 2007 for the VOCALOID2 engine. He is one part of the second set of vocals for Crypton's Character Vocal Series and is a Character Voice VOCALOID. There have since been numerous installments such as additional voice banks dubbed 'Append', an update to the VOCALOID4 engine, and an English vocal. He voice is provided by the Japanese voice actress, stage actress, and singer Asami Shimoda (下田麻美 Shimoda Asami).
+Kagamine Len (鏡音レン), codenamed CV02, is a Japanese VOCALOID developed and distributed by Crypton Future Media, Inc., and was initially released in December 2007 for the VOCALOID2 engine. He is one part of the second set of vocals for Crypton's Character Vocal Series and is a Character Voice VOCALOID. There have since been numerous installments such as additional voice banks dubbed 'Append', an update to the VOCALOID4 engine, and an English vocal. His voice is provided by the Japanese voice actress, stage actress, and singer Asami Shimoda (下田麻美 Shimoda Asami).
 
 He is Kagamine Rin's counterpart. (and is also ugly)
 
